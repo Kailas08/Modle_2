@@ -6,6 +6,8 @@ def get_multiplied_digits(number):
     else:
         return int(str_number)
 
+
 resalt = get_multiplied_digits(40203)
 print(resalt)
+
 
